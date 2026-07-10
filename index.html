@@ -265,6 +265,42 @@
   </section>
 
   <section>
+    <p class="eyebrow">First through the door</p>
+    <h2>Know the moment it opens</h2>
+    <p style="max-width:620px">One email when the register goes live — and nothing else. No newsletter,
+    no drip campaign. Planners only.</p>
+    <form id="notify" style="margin-top:22px;display:flex;gap:10px;flex-wrap:wrap;max-width:560px">
+      <input type="email" name="email" required placeholder="you@company.com" autocomplete="email"
+        style="flex:1;min-width:240px;padding:13px 16px;font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px">
+      <input type="text" name="company" tabindex="-1" autocomplete="off" aria-hidden="true"
+        style="position:absolute;left:-9999px;height:0;width:0;border:0;padding:0">
+      <button type="submit"
+        style="padding:13px 26px;font:inherit;font-weight:600;color:#fff;background:var(--brass);border:0;border-radius:8px;cursor:pointer">
+        Notify me</button>
+      <p id="notify-msg" role="status" style="flex-basis:100%;margin:4px 0 0;font-size:.95rem;color:var(--muted)"></p>
+    </form>
+    <script>
+      document.getElementById('notify').addEventListener('submit', async function (e) {
+        e.preventDefault();
+        var f = e.target, msg = document.getElementById('notify-msg'), btn = f.querySelector('button');
+        btn.disabled = true; msg.textContent = 'One moment…';
+        try {
+          var r = await fetch('https://n8n.valenciano.cloud/webhook/trr-signup', {
+            method: 'POST',
+            headers: { 'Content-Type': 'text/plain' },
+            body: JSON.stringify({ email: f.email.value, company: f.company.value, source: 'prelaunch' })
+          });
+          var d = await r.json();
+          if (d.ok) { msg.textContent = "You're on the list. One email at launch — that's the whole deal."; f.email.value = ''; }
+          else { msg.textContent = "That email didn't look right — mind checking it?"; btn.disabled = false; }
+        } catch (err) {
+          msg.textContent = "Couldn't reach the list just now — try again in a minute."; btn.disabled = false;
+        }
+      });
+    </script>
+  </section>
+
+  <section>
     <p class="eyebrow">Questions, answered plainly</p>
     <h2>FAQ</h2>
     <dl class="faq">
