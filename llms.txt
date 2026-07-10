@@ -1,0 +1,44 @@
+# The Retreat Register
+
+> A national directory of verified corporate retreat venues in the United States,
+> launching in 2026. Free to browse. Venues do not pay for placement or ranking.
+
+## What it is
+
+The Retreat Register catalogs resorts, lodges, ranches, estates, boutique hotels with
+dedicated meeting space, casino lodges, and purpose-built conference retreat campuses
+across the United States. It is a reference work, not a broker: listings are compiled
+from public sources, machine-checked, and human-reviewed before publication.
+
+## Current status (2026-07-10)
+
+- 1,200+ venues cataloged, launch planned for 2026
+- 2,000+ venue photo sets machine-verified against the properties they claim to show
+- 75+ U.S. markets swept, including small markets most directories skip
+- Every listing read and reviewed by a person; 400+ removed in recent review passes
+- Zero paid placements; ranking is never sold
+
+## Who it serves
+
+- Companies planning offsites, leadership summits, and all-hands retreats (10 to 500 people)
+- Teams needing meeting rooms plus on-site lodging
+- Churches and congregations planning group getaways (faith-based retreat centers are
+  included when they meet the same quality bar: real lodging, professional operation,
+  welcoming to outside groups)
+- Wellness and group-program organizers (destination spas, health retreats)
+
+## What is deliberately excluded
+
+Municipal convention centers, expo halls, banquet-only facilities, and budget or
+economy hotel chains.
+
+## Pricing honesty
+
+Most retreat venues quote per group (head count, season, full-property buyout all move
+the price). Where public pricing exists, listings show it; where it is quote-only, the
+listing says so explicitly rather than estimating.
+
+## Site
+
+- Homepage: https://theretreatregister.com/
+- Launches: 2026 (this file and the homepage update at launch)
