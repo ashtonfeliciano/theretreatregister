@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Retreat Register — Updates</title>
+  <link>https://theretreatregister.com/updates/</link>
+  <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 12 Jul 2026 09:00:00 -0400</lastBuildDate>
+
+  <item>
+    <title>The Build Log: day by day since day one</title>
+    <link>https://theretreatregister.com/updates/build-log/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/build-log/</guid>
+    <pubDate>Sun, 12 Jul 2026 10:30:00 -0400</pubDate>
+    <description>One dated entry per day since the pipeline first switched on — venues verified, junk cut, coverage targets, quality passes. Updated daily until launch.</description>
+  </item>
+
+  <item>
+    <title>1,374 verified venues: where the register stands in July</title>
+    <link>https://theretreatregister.com/updates/where-the-register-stands-july-2026/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/where-the-register-stands-july-2026/</guid>
+    <pubDate>Sun, 12 Jul 2026 09:00:00 -0400</pubDate>
+    <description>The first public coverage snapshot: which states run deepest, what got cut this month, and what the machine is scouting right now.</description>
+  </item>
+
+  <item>
+    <title>9 in 10 retreat venues won't show you a price — here's how to read that</title>
+    <link>https://theretreatregister.com/updates/retreat-venue-pricing-quote-only/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-venue-pricing-quote-only/</guid>
+    <pubDate>Sun, 12 Jul 2026 09:30:00 -0400</pubDate>
+    <description>Only 133 of 1,374 verified venues publish a starting price. That's not hiding — it's how group pricing works, and planners can use it.</description>
+  </item>
+
+  <item>
+    <title>We re-judged 2,811 rejected venues. 606 earned their way back.</title>
+    <link>https://theretreatregister.com/updates/606-second-chances/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/606-second-chances/</guid>
+    <pubDate>Sun, 12 Jul 2026 10:00:00 -0400</pubDate>
+    <description>A directory that only adds is a list; one that corrects itself is a reference work. Inside the register's biggest quality pass — both directions.</description>
+  </item>
+
+</channel>
+</rss>
