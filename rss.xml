@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Jul 2026 09:00:00 -0400</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 19:16:33 +0000</lastBuildDate>
+
+  <item>
+    <title>Five questions to ask a retreat venue before you sign anything</title>
+    <link>https://theretreatregister.com/updates/five-questions-before-you-book/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/five-questions-before-you-book/</guid>
+    <pubDate>Mon, 13 Jul 2026 19:16:33 +0000</pubDate>
+    <description>The five answers that decide your real cost and your real experience — and why most planners ask none of them until it's too late.</description>
+  </item>
 
   <item>
     <title>The Build Log: day by day since day one</title>
@@ -17,11 +25,11 @@
   </item>
 
   <item>
-    <title>1,374 verified venues: where the register stands in July</title>
-    <link>https://theretreatregister.com/updates/where-the-register-stands-july-2026/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/where-the-register-stands-july-2026/</guid>
-    <pubDate>Sun, 12 Jul 2026 09:00:00 -0400</pubDate>
-    <description>The first public coverage snapshot: which states run deepest, what got cut this month, and what the machine is scouting right now.</description>
+    <title>We re-judged 2,811 rejected venues. 606 earned their way back.</title>
+    <link>https://theretreatregister.com/updates/606-second-chances/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/606-second-chances/</guid>
+    <pubDate>Sun, 12 Jul 2026 10:00:00 -0400</pubDate>
+    <description>A directory that only adds is a list; one that corrects itself is a reference work. Inside the register's biggest quality pass — both directions.</description>
   </item>
 
   <item>
@@ -33,11 +41,11 @@
   </item>
 
   <item>
-    <title>We re-judged 2,811 rejected venues. 606 earned their way back.</title>
-    <link>https://theretreatregister.com/updates/606-second-chances/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/606-second-chances/</guid>
-    <pubDate>Sun, 12 Jul 2026 10:00:00 -0400</pubDate>
-    <description>A directory that only adds is a list; one that corrects itself is a reference work. Inside the register's biggest quality pass — both directions.</description>
+    <title>1,374 verified venues: where the register stands in July</title>
+    <link>https://theretreatregister.com/updates/where-the-register-stands-july-2026/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/where-the-register-stands-july-2026/</guid>
+    <pubDate>Sun, 12 Jul 2026 09:00:00 -0400</pubDate>
+    <description>The first public coverage snapshot: which states run deepest, what got cut this month, and what the machine is scouting right now.</description>
   </item>
 
 </channel>
