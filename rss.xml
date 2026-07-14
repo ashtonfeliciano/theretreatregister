@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Jul 2026 19:16:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 13:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Venue photos lie more than any other part of a listing</title>
+    <link>https://theretreatregister.com/updates/why-venue-photos-lie/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/why-venue-photos-lie/</guid>
+    <pubDate>Tue, 14 Jul 2026 13:33:01 +0000</pubDate>
+    <description>Borrowed photos, decade-old shots, and another property's sunset — why the register machine-checks every photo set against the venue it claims to show.</description>
+  </item>
 
   <item>
     <title>Five questions to ask a retreat venue before you sign anything</title>
