@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 13:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 19:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>The fastest venue quality test: can you actually reach it?</title>
+    <link>https://theretreatregister.com/updates/the-direct-phone-test/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/the-direct-phone-test/</guid>
+    <pubDate>Wed, 15 Jul 2026 19:03:00 +0000</pubDate>
+    <description>A surprising share of venue listings across the web dead-end at contact forms and chatbots. Reachability is a quality signal — and the register measures it.</description>
+  </item>
 
   <item>
     <title>Venue photos lie more than any other part of a listing</title>
