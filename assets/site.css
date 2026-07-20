@@ -100,3 +100,7 @@ footer .footnav{margin-top:8px;display:flex;gap:16px;justify-content:center;flex
 article .opener::first-letter{float:left;font-size:3.05em;line-height:.83;padding:4px 10px 0 0;color:var(--brass);font-weight:500}
 .pull{font-size:1.4rem;font-style:italic;color:var(--pine);border-left:3px solid var(--brass);padding:8px 0 8px 20px;margin:28px 0;max-width:620px;line-height:1.45}
 .cta .owner-note{margin:14px 0 0;font-size:.9rem;color:var(--muted)}
+
+/* wiki-chain reading links (2026-07-20) */
+.related{font-size:1.18em;font-weight:700;margin-top:34px;padding-top:18px;border-top:1px solid rgba(44,74,59,.25)}
+.related a{text-decoration:underline}
