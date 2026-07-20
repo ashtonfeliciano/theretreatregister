@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Jul 2026 14:33:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 16:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat planning when the travel warnings are loud</title>
+    <link>https://theretreatregister.com/updates/retreats-without-travel-warnings/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreats-without-travel-warnings/</guid>
+    <pubDate>Mon, 20 Jul 2026 16:03:00 +0000</pubDate>
+    <description>Advisories are spiking searches this week. A quiet fact: a retreat you can drive to skips the country-advisory question entirely. The case for staying domestic.</description>
+  </item>
 
   <item>
     <title>Corporate retreat venues: how to shortlist without losing a week</title>
