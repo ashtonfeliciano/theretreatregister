@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Jul 2026 04:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 14:33:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Corporate retreat venues: how to shortlist without losing a week</title>
+    <link>https://theretreatregister.com/updates/corporate-retreat-venues/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/corporate-retreat-venues/</guid>
+    <pubDate>Mon, 20 Jul 2026 14:33:00 +0000</pubDate>
+    <description>Company retreat planning starts with a venue shortlist. Here is the four-ask pass that replaces a week of tabs and unanswered forms.</description>
+  </item>
 
   <item>
     <title>Why venue capacity numbers are missing everywhere — including here</title>
